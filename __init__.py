@@ -1,2 +1,2 @@
 from .futoi import MOEXPy
-import algopack
+from .algopack import *
