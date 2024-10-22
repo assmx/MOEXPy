@@ -1,6 +1,6 @@
 from datetime import date, datetime, timedelta
 import pandas as pd
-from MOEXPy import MOEXPy
+import MOEXPy
 
 
 def futoi(symbol, from_date=None, to_date=None, latest=0, data_format='json'):
