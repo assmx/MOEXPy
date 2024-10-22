@@ -1,5 +1,5 @@
 import requests
-import MOEXPy
+from MOEXPy import MOEXPy
 
 
 def connect(login, password):
